@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Amey 
-- 👀 I’m interested in python
-- 🌱 I’m currently learning python
+- 👀 I’m interested in Web Dev
+- 🌱 I’m currently learning python, JS and Web3
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me- ameydhotesocialclub@gmail.com, 
 
