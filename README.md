@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Amey 
-- 👀 I’m interested in Web Dev
-- 🌱 I’m currently learning python and WebDev and Data Science.
+- 👀 I’m interested in Web Dev and Data Science.
+- 🌱 I’m currently learning python and JS
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me- ameydhotesocialclub@gmail.com
 
